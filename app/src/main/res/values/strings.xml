@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yamb</string>
+    <string name="hide_totals">Hide Totals</string>
+    <string name="show_totals">Show Totals</string>
+</resources>
